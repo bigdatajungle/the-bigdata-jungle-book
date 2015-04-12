@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](introduction.md)
-* [Akka : The Actor System](akka__the_actor_system.md)
+* [Akka : The Actors](akka__the_actor_system.md)
 
