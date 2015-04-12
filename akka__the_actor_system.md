@@ -1,2 +1,0 @@
-# Akka : The Actor System
-
